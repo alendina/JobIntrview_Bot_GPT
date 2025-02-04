@@ -1,4 +1,5 @@
-<a>jobintrviewbotgpt-alendina.streamlit.app</a>
+# Job Interview Bot
+[jobintrviewbotgpt-alendina.streamlit.app](https://jobintrviewbotgpt-alendina.streamlit.app)
 
 
 
