@@ -1,9 +1,9 @@
-# Job Interview Bot
+# Job Interview ChatBot
 
 
 ## Overview
 
-Job Interview Bot is an AI-powered assistant that simulates an HR interview process. It collects information about your experience and skills, asks clarifying questions, and evaluates how well you fit a target job position. The app leverages OpenAI's API and features an interactive user interface built with Streamlit.
+Job Interview ChatBot is an AI-powered assistant that simulates an HR interview process. It collects information about your experience and skills, asks clarifying questions, and evaluates how well you fit a target job position. The app leverages OpenAI's API and features an interactive user interface built with Streamlit.
 
 This project is the main assignment of the course "LLM Engineering in Practice with Streamlit & OpenAI" by [365DataScience.com](https://learn.365datascience.com/courses/llm-engineering-in-practice-with-streamlit-and-openai/introduction-to-the-course/) platform
 
@@ -11,6 +11,9 @@ This project is the main assignment of the course "LLM Engineering in Practice w
 
   Check out the live demo of the Job Interview Bot: [jobintrviewbotgpt-alendina.streamlit.app](https://jobintrviewbotgpt-alendina.streamlit.app)
 
+<p align="center">
+  <img width="658" alt="UI" src="https://github.com/user-attachments/assets/13da769d-2d51-43ec-9565-a3793734cfa8" />
+</p>
 
 ## Features
 
