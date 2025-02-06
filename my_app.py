@@ -43,8 +43,8 @@ if not st.session_state.setup_complete:
         st.session_state["skills"] = ""
 
     st.session_state["name"] = st.text_input("Name", max_chars=50, value=st.session_state["name"], placeholder="Enter your name")
-    st.session_state["experience"] = st.text_area("Experience", value=st.session_state["experience"], height=None, max_chars=400, placeholder="Describe your experience")
-    st.session_state["skills"] = st.text_area("Skills", value=st.session_state["skills"], height=None, max_chars=400, placeholder="List your skills")
+    st.session_state["experience"] = st.text_area("Experience", value=st.session_state["experience"], height=None, max_chars=1000, placeholder="Describe your experience")
+    st.session_state["skills"] = st.text_area("Skills", value=st.session_state["skills"], height=None, max_chars=1000, placeholder="List your skills")
 
     st.subheader("Company and Position", divider="rainbow")
 
